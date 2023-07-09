@@ -61,3 +61,21 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.UI.Views.Register.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Register.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Register.xaml
+
+[C:/TarefasApp/TarefasApp.UI/Views/TaskCreate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.UI.Views.TaskCreate.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TaskCreate.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TaskCreate.xaml
+
+[C:/TarefasApp/TarefasApp.UI/Views/TaskEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.UI.Views.TaskEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TaskEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TaskEdit.xaml
+
+[C:/TarefasApp/TarefasApp.UI/Views/TaskList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TarefasApp.UI.Views.TaskList.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TaskList.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TaskList.xaml
