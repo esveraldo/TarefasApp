@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TarefasApp.UI</name>
+    </assembly>
+    <members>
+        <member name="M:TarefasApp.UI.App.#ctor">
+            <summary>
+            Construtor que inicializa o componente inicial do aplicativo
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Behaviors.AutenticarBehavior">
+            <summary>
+            Classe para definir os comportamentos da página de autenticação
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.Behaviors.AutenticarBehavior.OnAttachedTo(Microsoft.Maui.Controls.ContentPage)">
+            <summary>
+            Método para implementar os eventos da página
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Behaviors.CriarContaBehavior">
+            <summary>
+            Classe para definir os comportamentos da página de criação de conta
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.Behaviors.CriarContaBehavior.OnAttachedTo(Microsoft.Maui.Controls.ContentPage)">
+            <summary>
+            Método para implementar os eventos da página
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Behaviors.DashboardBehavior">
+            <summary>
+            Classe para implementar os comportamentos da página
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.Behaviors.DashboardBehavior.OnAttachedTo(Microsoft.Maui.Controls.ContentPage)">
+            <summary>
+            Método para capturar os elementos da página
+            e adicionar comportamentos e eventos
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.Behaviors.DashboardBehavior.OnLogoutClicked(System.Object,System.EventArgs)">
+            <summary>
+            Função para processar o evento Clicked no botão de logout
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Behaviors.RecuperarSenhaBehavior">
+            <summary>
+            Classe para definir os comportamentos da página de recuperação de senha
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.Behaviors.RecuperarSenhaBehavior.OnAttachedTo(Microsoft.Maui.Controls.ContentPage)">
+            <summary>
+            Método para implementar os eventos da página
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.MainPage.EsqueciMinhaSenhaTapped(System.Object,System.EventArgs)">
+            <summary>
+            Método para evento Tapped
+            </summary>
+        </member>
+        <member name="M:TarefasApp.UI.MainPage.CriarContaTapped(System.Object,System.EventArgs)">
+            <summary>
+            Método para evento Tapped
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Models.AutenticarViewModel">
+            <summary>
+            Classe para definir o modelo de dados da página de autenticação
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Models.CriarContaViewModel">
+            <summary>
+            Classe para definir o modelo de dados da página de criação de conta
+            </summary>
+        </member>
+        <member name="T:TarefasApp.UI.Models.RecuperarSenhaViewModel">
+            <summary>
+            Classe para definir o modelo de dados da página de recuperação de senha
+            </summary>
+        </member>
+    </members>
+</doc>
